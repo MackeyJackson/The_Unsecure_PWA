@@ -1,0 +1,17 @@
+Flask
+Flask_cors
+Flask-csp
+Flask-WTF
+Flask-Limiter
+qrcode
+pyotp
+bcrypt
+requests
+matplotlib
+rich
+
+re
+html
+os
+Flask-Session
+flask_talisman

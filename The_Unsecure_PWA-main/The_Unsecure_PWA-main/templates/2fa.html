@@ -1,0 +1,18 @@
+{% extends 'layout.html' %}
+{% block content %}
+<h1 id="twofa">2 Factor Verification</h1>
+<div class="error">{{ error }}</div>
+<p>Scan this QR code in Google Authenticator:</p>
+<img src="data:image/png;base64,{{ qr_code_data }}" alt="QR Code"><br><br>
+<form action="/2fa" method="POST" class="faa">
+    Enter 6-digit code:
+    <div class="input__wrapper">
+        <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+        <input type="hidden" name="next" value="{{ request.args.get('next', '') }}">
+        <input type="text" name="otp" id="otp" placeholder="6-digit code" class="input__field"> 
+    </div>
+    <br>
+    <input type="submit" class="btn" value="Verify" />
+</form>
+<h4>We Require 2 factor authentication in order to ensure accounts are secure</h4>
+{% endblock %}

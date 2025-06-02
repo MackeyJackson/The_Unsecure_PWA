@@ -1,0 +1,45 @@
+{% extends 'layout.html' %}
+{% block content %}
+<h1>Welcome {{ value }}!</h1>
+<div class="error">{{ error }}</div>
+<form action="/success" method="POST" class="cmnt">
+  <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+  <input type="hidden" name="next" value="{{ request.args.get('next', '') }}">
+  <input type="hidden" name="action" value="new">
+  <div class="input__wrapper">
+    <input style="height:100px;vertical-align:top" type="text" name="feedback" id="feedback" placeholder="Enter your comment here" class="input__field" required/>
+  </div>
+  <div class="input__wrapper">
+    <input type="submit" class="btn" value="Submit comment" />
+  </div>
+</form>
+<hr/>
+  <br/>
+  <h1>Others Comments</h1>
+  <div class="comments">
+    {% for comment in PrevComments %}
+      <div class="comment">
+        <p id="Username">{{ comment['username'] }}:</p>
+      {% if comment['username'] == session['username'] %}
+        <form action="/success" method="POST" style="display:inline;" class="cmnt">
+          <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+          <input type="hidden" name="action" value="edit">
+          <input type="hidden" name="comment_id" value="{{ comment['id'] }}">
+          <input type="text" id="editfeild" name="new_feedback" value="{{ comment['feedback'] }}">
+          <button type="submit" id="edit">Edit</button>
+        </form>
+
+        <!-- Delete Form -->
+        <form action="/success" method="POST" style="display:inline;" class="cmnt">
+          <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+          <input type="hidden" name="action" value="delete">
+          <input type="hidden" name="comment_id" value="{{ comment['id'] }}">
+          <button type="submit" id="delete">Delete</button>
+        </form>
+      {% endif %}
+        <p id="Feedback">{{ comment['feedback'] }}</p>
+      </div>
+      <br>
+    {% endfor %}
+  </div>
+{% endblock %}

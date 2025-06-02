@@ -1,0 +1,21 @@
+{% extends 'layout.html' %}
+{% block content %}
+<h1>Signup Form</h1>
+<div class="error">{{ error }}</div>
+<form action="/signup" method="POST" class="box">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+    <input type="hidden" name="next" value="{{ request.args.get('next', '') }}">
+    <div class="input__wrapper">
+        <input type="text" name="username" id="username" placeholder="Username" class="input__field">
+    </div>            
+    <div class="input__wrapper">
+        <input type="password" name="password" id="password" placeholder="Password" class="input__field">
+    </div>
+    <div class="input__wrapper">
+        <input type="text" name="email" id="email" placeholder="email" class="input__field">
+    </div>
+    <div class="input__wrapper">
+        <button type="submit" class="btn">Submit</button>
+    </div>
+</form>
+{% endblock %}

@@ -1,0 +1,1251 @@
+2025-04-30 05:29:37,082 - INFO - Sign Up attempt sent to server with parameters: Username(adwda) | Request from IP: 127.0.0.1 at time: 2025-04-30 05:29:37.082596
+2025-04-30 05:35:05,860 - INFO - Log in attempt sent to server with parameters: Username(admin1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 05:35:05.860996
+2025-04-30 05:36:33,224 - INFO - Sign Up attempt sent to server with parameters: Username(awdawd) | Request from IP: 127.0.0.1 at time: 2025-04-30 05:36:33.224382
+2025-04-30 05:36:42,926 - INFO - Sign Up attempt sent to server with parameters: Username(awdawd) | Request from IP: 127.0.0.1 at time: 2025-04-30 05:36:42.926294
+2025-04-30 05:39:17,746 - INFO - Sign Up attempt sent to server with parameters: Username(dwawda) | Request from IP: 127.0.0.1 at time: 2025-04-30 05:39:17.746799
+2025-04-30 05:39:32,256 - INFO - Sign Up attempt sent to server with parameters: Username(awdwad) | Request from IP: 127.0.0.1 at time: 2025-04-30 05:39:32.256552
+2025-04-30 05:42:04,854 - INFO - Sign Up attempt sent to server with parameters: Username(DDdadawd) | Request from IP: 127.0.0.1 at time: 2025-04-30 05:42:04.854960
+2025-04-30 05:43:14,710 - INFO - Sign Up attempt sent to server with parameters: Username(adwd) | Request from IP: 127.0.0.1 at time: 2025-04-30 05:43:14.710610
+2025-04-30 05:44:19,802 - INFO - Sign Up attempt sent to server with parameters: Username(awdawd) | Request from IP: 127.0.0.1 at time: 2025-04-30 05:44:19.802138
+2025-04-30 05:44:56,020 - INFO - Sign Up attempt sent to server with parameters: Username(adawd) | Request from IP: 127.0.0.1 at time: 2025-04-30 05:44:56.020605
+2025-04-30 05:46:30,584 - INFO - Sign Up attempt sent to server with parameters: Username(adawda) | Request from IP: 127.0.0.1 at time: 2025-04-30 05:46:30.584643
+2025-04-30 05:49:21,910 - INFO - Sign Up attempt sent to server with parameters: Username(awdawd) | Request from IP: 127.0.0.1 at time: 2025-04-30 05:49:21.910357
+2025-04-30 05:49:52,976 - INFO - Sign Up attempt sent to server with parameters: Username(adwawd) | Request from IP: 127.0.0.1 at time: 2025-04-30 05:49:52.976199
+2025-04-30 05:59:24,628 - INFO - Sign Up attempt sent to server with parameters: Username(awdawd) | Request from IP: 127.0.0.1 at time: 2025-04-30 05:59:24.628708
+2025-04-30 06:07:30,991 - INFO - Log in attempt sent to server with parameters: Username(admin1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 06:07:30.991569
+2025-04-30 06:35:15,902 - INFO - Log in attempt sent to server with parameters: Username(admin1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 06:35:15.902186
+2025-04-30 06:36:36,811 - INFO - Sign Up attempt sent to server with parameters: Username(admin1) | Request from IP: 127.0.0.1 at time: 2025-04-30 06:36:36.811607
+2025-04-30 06:40:37,389 - INFO - Sign Up attempt sent to server with parameters: Username(admin1) | Request from IP: 127.0.0.1 at time: 2025-04-30 06:40:37.389880
+2025-04-30 06:46:44,405 - INFO - Sign Up attempt sent to server with parameters: Username(admin1) | Request from IP: 127.0.0.1 at time: 2025-04-30 06:46:44.405423
+2025-04-30 06:46:47,819 - INFO - Sign Up attempt sent to server with parameters: Username(admin1) | Request from IP: 127.0.0.1 at time: 2025-04-30 06:46:47.819191
+2025-04-30 06:46:48,404 - INFO - Sign Up attempt sent to server with parameters: Username(admin1) | Request from IP: 127.0.0.1 at time: 2025-04-30 06:46:48.404012
+2025-04-30 06:46:51,357 - INFO - Sign Up attempt sent to server with parameters: Username(admin1) | Request from IP: 127.0.0.1 at time: 2025-04-30 06:46:51.357671
+2025-04-30 06:48:05,123 - INFO - Sign Up attempt sent to server with parameters: Username(admin1) | Request from IP: 127.0.0.1 at time: 2025-04-30 06:48:05.123732
+2025-04-30 06:48:38,394 - INFO - Sign Up attempt sent to server with parameters: Username(admin1) | Request from IP: 127.0.0.1 at time: 2025-04-30 06:48:38.394290
+2025-04-30 06:49:01,687 - INFO - Sign Up attempt sent to server with parameters: Username(admin1) | Request from IP: 127.0.0.1 at time: 2025-04-30 06:49:01.687638
+2025-04-30 06:51:23,349 - INFO - Sign Up attempt sent to server with parameters: Username(admin1) | Request from IP: 127.0.0.1 at time: 2025-04-30 06:51:23.349511
+2025-04-30 06:51:27,451 - INFO - Sign Up attempt sent to server with parameters: Username(admin1) | Request from IP: 127.0.0.1 at time: 2025-04-30 06:51:27.451288
+2025-04-30 06:51:31,430 - INFO - Sign Up attempt sent to server with parameters: Username(admin1) | Request from IP: 127.0.0.1 at time: 2025-04-30 06:51:31.430893
+2025-04-30 06:53:11,768 - INFO - Sign Up attempt sent to server with parameters: Username(admin1) | Request from IP: 127.0.0.1 at time: 2025-04-30 06:53:11.768575
+2025-04-30 06:53:11,771 - ERROR - Exception on /signup [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1212, in make_response
+    raise TypeError(
+TypeError: The view function for 'signupPage' did not return a valid response. The function either returned None or ended without a return statement.
+2025-04-30 06:53:16,156 - INFO - Sign Up attempt sent to server with parameters: Username(admin1) | Request from IP: 127.0.0.1 at time: 2025-04-30 06:53:16.156058
+2025-04-30 06:53:16,158 - ERROR - Exception on /signup [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1212, in make_response
+    raise TypeError(
+TypeError: The view function for 'signupPage' did not return a valid response. The function either returned None or ended without a return statement.
+2025-04-30 06:54:12,382 - INFO - Sign Up attempt sent to server with parameters: Username(admin1) | Request from IP: 127.0.0.1 at time: 2025-04-30 06:54:12.382671
+2025-04-30 06:54:12,385 - ERROR - Exception on /signup [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1212, in make_response
+    raise TypeError(
+TypeError: The view function for 'signupPage' did not return a valid response. The function either returned None or ended without a return statement.
+2025-04-30 06:55:06,175 - INFO - Sign Up attempt sent to server with parameters: Username(admin1) | Request from IP: 127.0.0.1 at time: 2025-04-30 06:55:06.175367
+2025-04-30 07:13:14,831 - INFO - Sign Up attempt sent to server with parameters: Username(Username) | Request from IP: 127.0.0.1 at time: 2025-04-30 07:13:14.831559
+2025-04-30 07:24:28,752 - INFO - Log in attempt sent to server with parameters: Username(admin1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 07:24:28.752823
+2025-04-30 07:24:28,758 - ERROR - Exception on / [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask_limiter\extension.py", line 1314, in __inner
+    return cast(R, flask.current_app.ensure_sync(obj)(*a, **k))
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\main.py", line 217, in postLogin
+    isLoggedIn = dbHandler.retrieveUsers(username, password)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\user_management.py", line 27, in retrieveUsers
+    cur.execute("SELECT * FROM users WHERE username = ?", (username,password))
+sqlite3.ProgrammingError: Incorrect number of bindings supplied. The current statement uses 1, and there are 2 supplied.
+2025-04-30 07:25:37,053 - INFO - Log in attempt sent to server with parameters: Username(admin1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 07:25:37.053030
+2025-04-30 07:32:46,244 - INFO - Log in attempt sent to server with parameters: Username(admin1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 07:32:46.244219
+2025-04-30 07:33:11,280 - INFO - Sign Up attempt sent to server with parameters: Username(admin) | Request from IP: 127.0.0.1 at time: 2025-04-30 07:33:11.280357
+2025-04-30 07:34:47,400 - INFO - Log in attempt sent to server with parameters: Username(admin), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 07:34:47.400973
+2025-04-30 07:35:51,592 - INFO - Sign Up attempt sent to server with parameters: Username(Username) | Request from IP: 127.0.0.1 at time: 2025-04-30 07:35:51.592577
+2025-04-30 07:35:55,374 - INFO - Sign Up attempt sent to server with parameters: Username(Username) | Request from IP: 127.0.0.1 at time: 2025-04-30 07:35:55.374296
+2025-04-30 07:35:57,526 - ERROR - Exception on /signup [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask_limiter\extension.py", line 1314, in __inner
+    return cast(R, flask.current_app.ensure_sync(obj)(*a, **k))
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\main.py", line 168, in signupPage
+    dbHandler.insertUser(username,password,email)
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\user_management.py", line 9, in insertUser
+    cur.execute(
+sqlite3.OperationalError: database is locked
+2025-04-30 07:36:01,341 - INFO - Sign Up attempt sent to server with parameters: Username(Username) | Request from IP: 127.0.0.1 at time: 2025-04-30 07:36:01.341326
+2025-04-30 07:36:01,382 - ERROR - Exception on /signup [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask_limiter\extension.py", line 1314, in __inner
+    return cast(R, flask.current_app.ensure_sync(obj)(*a, **k))
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\main.py", line 168, in signupPage
+    dbHandler.insertUser(username,password,email)
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\user_management.py", line 9, in insertUser
+    cur.execute(
+sqlite3.OperationalError: database is locked
+2025-04-30 07:36:07,304 - ERROR - Exception on /signup [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask_limiter\extension.py", line 1314, in __inner
+    return cast(R, flask.current_app.ensure_sync(obj)(*a, **k))
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\main.py", line 168, in signupPage
+    dbHandler.insertUser(username,password,email)
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\user_management.py", line 9, in insertUser
+    cur.execute(
+sqlite3.OperationalError: database is locked
+2025-04-30 07:36:28,051 - INFO - Sign Up attempt sent to server with parameters: Username(Username) | Request from IP: 127.0.0.1 at time: 2025-04-30 07:36:28.050961
+2025-04-30 07:36:38,295 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 07:36:38.295737
+2025-04-30 07:39:20,941 - INFO - Log in attempt sent to server with parameters: Username(awdawd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 07:39:20.941318
+2025-04-30 08:27:47,904 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 08:27:47.904278
+2025-04-30 08:28:13,842 - INFO - Log in attempt sent to server with parameters: Username(admin1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 08:28:13.842976
+2025-04-30 08:28:13,845 - ERROR - Exception on / [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask_limiter\extension.py", line 1314, in __inner
+    return cast(R, flask.current_app.ensure_sync(obj)(*a, **k))
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\main.py", line 219, in postLogin
+    print("Request args:", request.args)
+                    ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\SecurityFeatureModules\HashAndSalt.py", line 11, in check_password
+    result = bcrypt.checkpw(userBytes, Hash)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: argument 'hashed_password': 'bool' object cannot be converted to 'PyBytes'
+2025-04-30 08:28:50,409 - INFO - Log in attempt sent to server with parameters: Username(adwd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 08:28:50.409230
+2025-04-30 08:28:50,411 - ERROR - Exception on / [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask_limiter\extension.py", line 1314, in __inner
+    return cast(R, flask.current_app.ensure_sync(obj)(*a, **k))
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\main.py", line 218, in postLogin
+    PasswordCheck = HAS.check_password(password, isLoggedIn)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\SecurityFeatureModules\HashAndSalt.py", line 11, in check_password
+    result = bcrypt.checkpw(userBytes, Hash)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: argument 'hashed_password': 'bool' object cannot be converted to 'PyBytes'
+2025-04-30 08:32:25,921 - INFO - Sign Up attempt sent to server with parameters: Username(awdawd) | Request from IP: 127.0.0.1 at time: 2025-04-30 08:32:25.921427
+2025-04-30 08:33:33,377 - INFO - Log in attempt sent to server with parameters: Username(admin1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 08:33:33.377019
+2025-04-30 08:33:33,381 - ERROR - Exception on / [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask_limiter\extension.py", line 1314, in __inner
+    return cast(R, flask.current_app.ensure_sync(obj)(*a, **k))
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\main.py", line 218, in postLogin
+    PasswordCheck = HAS.check_password(password, isLoggedIn)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\SecurityFeatureModules\HashAndSalt.py", line 11, in check_password
+    result = bcrypt.checkpw(userBytes, Hash)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: argument 'hashed_password': 'bool' object cannot be converted to 'PyBytes'
+2025-04-30 08:41:33,068 - INFO - Log in attempt sent to server with parameters: Username(adawd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 08:41:33.068813
+2025-04-30 08:41:33,072 - ERROR - Exception on / [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask_limiter\extension.py", line 1314, in __inner
+    return cast(R, flask.current_app.ensure_sync(obj)(*a, **k))
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\main.py", line 218, in postLogin
+    PasswordCheck = HAS.check_password(password, isLoggedIn)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\SecurityFeatureModules\HashAndSalt.py", line 11, in check_password
+    result = bcrypt.checkpw(userBytes, Hash)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: argument 'hashed_password': 'bool' object cannot be converted to 'PyBytes'
+2025-04-30 08:42:00,476 - INFO - Log in attempt sent to server with parameters: Username(addw), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 08:42:00.476184
+2025-04-30 08:42:00,478 - ERROR - Exception on / [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask_limiter\extension.py", line 1314, in __inner
+    return cast(R, flask.current_app.ensure_sync(obj)(*a, **k))
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\main.py", line 218, in postLogin
+    PasswordCheck = HAS.check_password(password, isLoggedIn)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\SecurityFeatureModules\HashAndSalt.py", line 11, in check_password
+    result = bcrypt.checkpw(userBytes, Hash)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: argument 'hashed_password': 'bool' object cannot be converted to 'PyBytes'
+2025-04-30 08:45:26,166 - INFO - Log in attempt sent to server with parameters: Username(awdwd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 08:45:26.166004
+2025-04-30 08:51:53,181 - INFO - Log in attempt sent to server with parameters: Username(dwdada), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 08:51:53.181381
+2025-04-30 08:52:32,184 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 08:52:32.184851
+2025-04-30 08:58:25,298 - INFO - Log in attempt sent to server with parameters: Username(adawd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 08:58:25.298078
+2025-04-30 08:58:28,410 - INFO - Log in attempt sent to server with parameters: Username(adawd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 08:58:28.410114
+2025-04-30 08:58:31,616 - INFO - Log in attempt sent to server with parameters: Username(adawd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 08:58:31.616594
+2025-04-30 08:58:34,448 - INFO - Log in attempt sent to server with parameters: Username(adawd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 08:58:34.448938
+2025-04-30 09:05:28,884 - INFO - Log in attempt sent to server with parameters: Username(dawdawd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:05:28.884942
+2025-04-30 09:08:06,487 - INFO - Log in attempt sent to server with parameters: Username(adawd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:08:06.487705
+2025-04-30 09:10:44,486 - INFO - Log in attempt sent to server with parameters: Username(awdwda), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:10:44.486977
+2025-04-30 09:12:11,248 - INFO - Log in attempt sent to server with parameters: Username(adwd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:12:11.248604
+2025-04-30 09:12:12,743 - INFO - Log in attempt sent to server with parameters: Username(adwd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:12:12.743952
+2025-04-30 09:12:14,842 - INFO - Log in attempt sent to server with parameters: Username(adwd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:12:14.842277
+2025-04-30 09:12:16,576 - INFO - Log in attempt sent to server with parameters: Username(adwd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:12:16.576120
+2025-04-30 09:12:18,907 - INFO - Log in attempt sent to server with parameters: Username(adwd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:12:18.907909
+2025-04-30 09:12:20,244 - INFO - Log in attempt sent to server with parameters: Username(adwd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:12:20.244788
+2025-04-30 09:12:22,450 - INFO - Log in attempt sent to server with parameters: Username(adwd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:12:22.450495
+2025-04-30 09:12:24,321 - INFO - Log in attempt sent to server with parameters: Username(adwd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:12:24.321637
+2025-04-30 09:12:25,465 - INFO - Log in attempt sent to server with parameters: Username(adwd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:12:25.465874
+2025-04-30 09:12:25,928 - INFO - Log in attempt sent to server with parameters: Username(adwd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:12:25.928397
+2025-04-30 09:12:26,068 - INFO - Log in attempt sent to server with parameters: Username(adwd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:12:26.068268
+2025-04-30 09:12:26,179 - INFO - Log in attempt sent to server with parameters: Username(adwd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:12:26.179014
+2025-04-30 09:12:26,193 - INFO - Log in attempt sent to server with parameters: Username(adwd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:12:26.193043
+2025-04-30 09:12:26,318 - INFO - Log in attempt sent to server with parameters: Username(adwd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:12:26.318879
+2025-04-30 09:12:26,430 - INFO - Log in attempt sent to server with parameters: Username(adwd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:12:26.430541
+2025-04-30 09:12:26,571 - INFO - Log in attempt sent to server with parameters: Username(adwd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:12:26.571496
+2025-04-30 09:12:28,206 - INFO - Log in attempt sent to server with parameters: Username(adwd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:12:28.206381
+2025-04-30 09:12:29,920 - INFO - Log in attempt sent to server with parameters: Username(adwd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:12:29.920349
+2025-04-30 09:12:32,224 - INFO - Log in attempt sent to server with parameters: Username(adwd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:12:32.224974
+2025-04-30 09:12:33,661 - INFO - Log in attempt sent to server with parameters: Username(adwd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:12:33.661562
+2025-04-30 09:12:52,905 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:12:52.905000
+2025-04-30 09:22:02,274 - INFO - Log in attempt sent to server with parameters: Username(adawd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:22:02.274384
+2025-04-30 09:22:05,675 - INFO - Log in attempt sent to server with parameters: Username(adawd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:22:05.675816
+2025-04-30 09:22:08,539 - INFO - Log in attempt sent to server with parameters: Username(adawd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:22:08.539883
+2025-04-30 09:22:09,015 - INFO - Log in attempt sent to server with parameters: Username(adawd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:22:09.015400
+2025-04-30 09:22:09,186 - INFO - Log in attempt sent to server with parameters: Username(adawd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:22:09.186088
+2025-04-30 09:22:09,281 - INFO - Log in attempt sent to server with parameters: Username(adawd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:22:09.281008
+2025-04-30 09:22:09,333 - INFO - Log in attempt sent to server with parameters: Username(adawd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:22:09.333945
+2025-04-30 09:22:26,154 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:22:26.154059
+2025-04-30 09:59:41,700 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 09:59:41.700314
+2025-04-30 10:16:21,473 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 10:16:21.473324
+2025-04-30 10:21:15,564 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 10:21:15.564329
+2025-04-30 10:24:21,304 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 10:24:21.304182
+2025-04-30 10:24:27,724 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 10:24:27.723188
+2025-04-30 10:24:33,803 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 10:24:33.803703
+2025-04-30 10:30:58,019 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 10:30:58.019567
+2025-04-30 10:31:01,037 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 10:31:01.037321
+2025-04-30 10:31:04,296 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 10:31:04.296169
+2025-04-30 10:31:06,833 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 10:31:06.833025
+2025-04-30 10:31:07,742 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 10:31:07.741120
+2025-04-30 10:31:07,947 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 10:31:07.947411
+2025-04-30 10:31:09,799 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 10:31:09.799548
+2025-04-30 10:31:11,224 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 10:31:11.224866
+2025-04-30 10:31:20,843 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 10:31:20.843799
+2025-04-30 11:03:40,351 - INFO - Sign Up attempt sent to server with parameters: Username(Username) | Request from IP: 127.0.0.1 at time: 2025-04-30 11:03:40.351467
+2025-04-30 11:03:43,394 - INFO - Sign Up attempt sent to server with parameters: Username(Username) | Request from IP: 127.0.0.1 at time: 2025-04-30 11:03:43.394694
+2025-04-30 11:03:55,820 - INFO - Sign Up attempt sent to server with parameters: Username(Username) | Request from IP: 127.0.0.1 at time: 2025-04-30 11:03:55.820441
+2025-04-30 11:19:43,820 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 11:19:43.819653
+2025-04-30 11:22:11,902 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 11:22:11.902770
+2025-04-30 13:56:16,116 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 13:56:16.116481
+2025-04-30 15:21:01,819 - ERROR - Exception on /2fa [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1212, in make_response
+    raise TypeError(
+TypeError: The view function for 'TwoFAPage' did not return a valid response. The function either returned None or ended without a return statement.
+2025-04-30 15:21:18,222 - ERROR - Exception on /2fa [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1212, in make_response
+    raise TypeError(
+TypeError: The view function for 'TwoFAPage' did not return a valid response. The function either returned None or ended without a return statement.
+2025-04-30 15:21:45,089 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 15:21:45.089476
+2025-04-30 15:22:24,740 - ERROR - Exception on /2fa [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1212, in make_response
+    raise TypeError(
+TypeError: The view function for 'TwoFAPage' did not return a valid response. The function either returned None or ended without a return statement.
+2025-04-30 15:25:49,363 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 15:25:49.363138
+2025-04-30 15:26:19,297 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 15:26:19.297013
+2025-04-30 15:26:37,195 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 15:26:37.195839
+2025-04-30 15:48:57,716 - INFO - Sign Up attempt sent to server with parameters: Username(Username) | Request from IP: 127.0.0.1 at time: 2025-04-30 15:48:57.716111
+2025-04-30 16:46:39,689 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 16:46:39.689890
+2025-04-30 16:49:58,705 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 16:49:58.705205
+2025-04-30 16:51:24,806 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 16:51:24.806109
+2025-04-30 16:55:15,947 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 16:55:15.947415
+2025-04-30 16:58:58,821 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 16:58:58.821858
+2025-04-30 17:06:20,743 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 17:06:20.743593
+2025-04-30 17:08:03,835 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 17:08:03.835247
+2025-04-30 17:09:31,149 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 17:09:31.149692
+2025-04-30 17:10:54,568 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 17:10:54.568236
+2025-04-30 17:13:01,189 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 17:13:01.189966
+2025-04-30 17:15:06,723 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 17:15:06.723357
+2025-04-30 17:16:21,605 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 17:16:21.605598
+2025-04-30 17:24:01,402 - ERROR - Exception on /2fa [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1212, in make_response
+    raise TypeError(
+TypeError: The view function for 'TwoFAPage' did not return a valid response. The function either returned None or ended without a return statement.
+2025-04-30 17:24:09,109 - ERROR - Exception on /2fa [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1212, in make_response
+    raise TypeError(
+TypeError: The view function for 'TwoFAPage' did not return a valid response. The function either returned None or ended without a return statement.
+2025-04-30 17:24:18,514 - ERROR - Exception on /2fa [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1212, in make_response
+    raise TypeError(
+TypeError: The view function for 'TwoFAPage' did not return a valid response. The function either returned None or ended without a return statement.
+2025-04-30 17:32:02,582 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 17:32:02.582546
+2025-04-30 17:32:07,873 - ERROR - Exception on /2fa [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1212, in make_response
+    raise TypeError(
+TypeError: The view function for 'TwoFAPage' did not return a valid response. The function either returned None or ended without a return statement.
+2025-04-30 17:36:28,863 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 17:36:28.863659
+2025-04-30 17:50:25,331 - INFO - Log in attempt sent to server with parameters: Username(Paswdwd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 17:50:25.331341
+2025-04-30 17:50:28,188 - INFO - Log in attempt sent to server with parameters: Username(Paswdwd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 17:50:28.188445
+2025-04-30 17:50:38,747 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 17:50:38.747227
+2025-04-30 17:54:56,753 - INFO - Log in attempt sent to server with parameters: Username(awdwad), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 17:54:56.752800
+2025-04-30 17:55:17,928 - INFO - Log in attempt sent to server with parameters: Username(wadawd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 17:55:17.928989
+2025-04-30 17:55:21,261 - INFO - Log in attempt sent to server with parameters: Username(wadawd), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 17:55:21.261203
+2025-04-30 17:57:16,906 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 17:57:16.906807
+2025-04-30 17:57:19,805 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 17:57:19.805734
+2025-04-30 18:06:54,235 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 18:06:54.235789
+2025-04-30 18:09:20,574 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 18:09:20.574233
+2025-04-30 18:09:23,800 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 18:09:23.800906
+2025-04-30 18:09:30,920 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 18:09:30.920936
+2025-04-30 18:10:22,183 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 18:10:22.183137
+2025-04-30 18:11:50,583 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 18:11:50.583502
+2025-04-30 18:11:53,493 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 18:11:53.493728
+2025-04-30 18:11:56,950 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 18:11:56.950822
+2025-04-30 18:15:52,989 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 18:15:52.989460
+2025-04-30 18:17:27,975 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 18:17:27.975593
+2025-04-30 18:17:31,939 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 18:17:31.939082
+2025-04-30 18:22:09,125 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 18:22:09.125526
+2025-04-30 18:22:11,974 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 18:22:11.974085
+2025-04-30 18:22:18,204 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 18:22:18.204850
+2025-04-30 18:24:06,492 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 18:24:06.491603
+2025-04-30 18:24:09,144 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 18:24:09.144445
+2025-04-30 18:26:06,355 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 18:26:06.355941
+2025-04-30 18:26:09,909 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 18:26:09.909586
+2025-04-30 18:32:46,693 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 18:32:46.693730
+2025-04-30 18:37:10,186 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 18:37:10.186467
+2025-04-30 19:14:55,718 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 19:14:55.718596
+2025-04-30 19:17:29,774 - ERROR - Exception on /success [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1212, in make_response
+    raise TypeError(
+TypeError: The view function for 'comment' did not return a valid response. The function either returned None or ended without a return statement.
+2025-04-30 19:27:04,448 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 19:27:04.447324
+2025-04-30 19:30:33,493 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 19:30:33.493614
+2025-04-30 19:30:54,271 - ERROR - Exception on /success [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1212, in make_response
+    raise TypeError(
+TypeError: The view function for 'comment' did not return a valid response. The function either returned None or ended without a return statement.
+2025-04-30 19:31:45,659 - ERROR - Exception on /success [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1212, in make_response
+    raise TypeError(
+TypeError: The view function for 'comment' did not return a valid response. The function either returned None or ended without a return statement.
+2025-04-30 19:32:14,595 - ERROR - Exception on /success [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1212, in make_response
+    raise TypeError(
+TypeError: The view function for 'comment' did not return a valid response. The function either returned None or ended without a return statement.
+2025-04-30 19:32:25,033 - ERROR - Exception on /success [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1212, in make_response
+    raise TypeError(
+TypeError: The view function for 'comment' did not return a valid response. The function either returned None or ended without a return statement.
+2025-04-30 19:34:34,642 - ERROR - Exception on /success [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1212, in make_response
+    raise TypeError(
+TypeError: The view function for 'comment' did not return a valid response. The function either returned None or ended without a return statement.
+2025-04-30 19:35:13,375 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 19:35:13.375889
+2025-04-30 19:35:33,527 - ERROR - Exception on /success [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1212, in make_response
+    raise TypeError(
+TypeError: The view function for 'comment' did not return a valid response. The function either returned None or ended without a return statement.
+2025-04-30 19:47:02,420 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 19:47:02.420710
+2025-04-30 19:47:25,127 - ERROR - Exception on /success [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1212, in make_response
+    raise TypeError(
+TypeError: The view function for 'comment' did not return a valid response. The function either returned None or ended without a return statement.
+2025-04-30 20:18:59,259 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 20:18:59.259832
+2025-04-30 20:19:02,415 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 20:19:02.415163
+2025-04-30 20:19:05,799 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 20:19:05.799698
+2025-04-30 20:25:36,604 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 20:25:36.604830
+2025-04-30 20:28:43,040 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 20:28:43.040805
+2025-04-30 20:29:43,625 - ERROR - Exception on /success [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1212, in make_response
+    raise TypeError(
+TypeError: The view function for 'comment' did not return a valid response. The function either returned None or ended without a return statement.
+2025-04-30 20:55:00,025 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 20:55:00.025972
+2025-04-30 21:11:22,681 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 21:11:22.681074
+2025-04-30 21:12:12,289 - ERROR - Exception on /success [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1212, in make_response
+    raise TypeError(
+TypeError: The view function for 'comment' did not return a valid response. The function either returned None or ended without a return statement.
+2025-04-30 21:14:45,741 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 21:14:45.741602
+2025-04-30 21:15:07,720 - ERROR - Exception on /success [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\main.py", line 345, in comment
+    return redirect(url_for('/success'))
+                    ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\helpers.py", line 232, in url_for
+    return current_app.url_for(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1121, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1110, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\werkzeug\routing\map.py", line 924, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint '/success'. Did you mean 'successPage' instead?
+2025-04-30 21:16:03,421 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 21:16:03.421296
+2025-04-30 21:17:00,187 - ERROR - Exception on /success [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\main.py", line 345, in comment
+    return redirect(url_for('/success'))
+                    ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\helpers.py", line 232, in url_for
+    return current_app.url_for(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1121, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1110, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\werkzeug\routing\map.py", line 924, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint '/success'. Did you mean 'successPage' instead?
+2025-04-30 21:19:20,699 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 21:19:20.699133
+2025-04-30 21:19:51,898 - ERROR - Exception on /success [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\main.py", line 345, in comment
+    return redirect(url_for('success'))
+                    ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\helpers.py", line 232, in url_for
+    return current_app.url_for(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1121, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1110, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\werkzeug\routing\map.py", line 924, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'success'. Did you mean 'successPage' instead?
+2025-04-30 21:21:52,582 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 21:21:52.582599
+2025-04-30 21:35:51,971 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 21:35:51.971354
+2025-04-30 21:35:55,330 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 21:35:55.330220
+2025-04-30 21:39:05,305 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 21:39:05.305500
+2025-04-30 21:42:03,063 - ERROR - Exception on /signup [GET]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\main.py", line 178, in GetSignUp
+    return render_template('signup.html', csrf_token=token, state=state)
+                                                                  ^^^^^
+UnboundLocalError: cannot access local variable 'state' where it is not associated with a value
+2025-04-30 21:42:04,049 - ERROR - Exception on /signup [GET]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\main.py", line 178, in GetSignUp
+    return render_template('signup.html', csrf_token=token, state=state)
+                                                                  ^^^^^
+UnboundLocalError: cannot access local variable 'state' where it is not associated with a value
+2025-04-30 21:42:04,860 - ERROR - Exception on /signup [GET]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\main.py", line 178, in GetSignUp
+    return render_template('signup.html', csrf_token=token, state=state)
+                                                                  ^^^^^
+UnboundLocalError: cannot access local variable 'state' where it is not associated with a value
+2025-04-30 21:42:05,754 - ERROR - Exception on /signup [GET]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\main.py", line 178, in GetSignUp
+    return render_template('signup.html', csrf_token=token, state=state)
+                                                                  ^^^^^
+UnboundLocalError: cannot access local variable 'state' where it is not associated with a value
+2025-04-30 21:43:17,232 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 21:43:17.232808
+2025-04-30 22:11:44,786 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 22:11:44.786498
+2025-04-30 22:12:01,290 - ERROR - Exception on /success [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1212, in make_response
+    raise TypeError(
+TypeError: The view function for 'comment' did not return a valid response. The function either returned None or ended without a return statement.
+2025-04-30 22:12:16,100 - ERROR - Exception on /success [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1212, in make_response
+    raise TypeError(
+TypeError: The view function for 'comment' did not return a valid response. The function either returned None or ended without a return statement.
+2025-04-30 22:15:03,963 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 22:15:03.963348
+2025-04-30 22:18:04,543 - ERROR - Exception on /success [GET]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\main.py", line 321, in successPage
+    return render_template("/success.html", PrevComments = PrevComments, csrf_token=token, value=user, state=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\templates\success.html", line 1, in top-level template code
+    {% extends 'layout.html' %}
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\templates\layout.html", line 29, in top-level template code
+    {% block content %}{% endblock %}
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\templates\success.html", line 30, in block 'content'
+    <form action="{{ url_for('edit_comment') }}" method="POST" style="display:inline;">
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1121, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1110, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\werkzeug\routing\map.py", line 924, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'edit_comment'. Did you mean 'comment' instead?
+2025-04-30 22:18:05,440 - ERROR - Exception on /success [GET]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\main.py", line 321, in successPage
+    return render_template("/success.html", PrevComments = PrevComments, csrf_token=token, value=user, state=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\templates\success.html", line 1, in top-level template code
+    {% extends 'layout.html' %}
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\templates\layout.html", line 29, in top-level template code
+    {% block content %}{% endblock %}
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\templates\success.html", line 30, in block 'content'
+    <form action="{{ url_for('edit_comment') }}" method="POST" style="display:inline;">
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1121, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1110, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\werkzeug\routing\map.py", line 924, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'edit_comment'. Did you mean 'comment' instead?
+2025-04-30 22:18:50,089 - ERROR - Exception on /success [GET]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\main.py", line 321, in successPage
+    return render_template("/success.html", PrevComments = PrevComments, csrf_token=token, value=user, state=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\templates\success.html", line 1, in top-level template code
+    {% extends 'layout.html' %}
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\templates\layout.html", line 29, in top-level template code
+    {% block content %}{% endblock %}
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\templates\success.html", line 25, in block 'content'
+    <form action="{{ url_for('edit_comment') }}" method="POST" style="display:inline;">
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1121, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1110, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\werkzeug\routing\map.py", line 924, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'edit_comment'. Did you mean 'comment' instead?
+2025-04-30 22:18:50,775 - ERROR - Exception on /success [GET]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\main.py", line 321, in successPage
+    return render_template("/success.html", PrevComments = PrevComments, csrf_token=token, value=user, state=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\templates\success.html", line 1, in top-level template code
+    {% extends 'layout.html' %}
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\templates\layout.html", line 29, in top-level template code
+    {% block content %}{% endblock %}
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\templates\success.html", line 25, in block 'content'
+    <form action="{{ url_for('edit_comment') }}" method="POST" style="display:inline;">
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1121, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1110, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\werkzeug\routing\map.py", line 924, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'edit_comment'. Did you mean 'comment' instead?
+2025-04-30 22:20:44,640 - ERROR - Exception on /success [GET]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\main.py", line 321, in successPage
+    return render_template("/success.html", PrevComments = PrevComments, csrf_token=token, value=user, state=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\templates\success.html", line 1, in top-level template code
+    {% extends 'layout.html' %}
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\templates\layout.html", line 29, in top-level template code
+    {% block content %}{% endblock %}
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\templates\success.html", line 31, in block 'content'
+    <form action="{{ url_for('edit_comment') }}" method="POST" style="display:inline;">
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1121, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1110, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\werkzeug\routing\map.py", line 924, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'edit_comment'. Did you mean 'comment' instead?
+2025-04-30 22:20:45,630 - ERROR - Exception on /success [GET]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\main.py", line 321, in successPage
+    return render_template("/success.html", PrevComments = PrevComments, csrf_token=token, value=user, state=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\templates\success.html", line 1, in top-level template code
+    {% extends 'layout.html' %}
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\templates\layout.html", line 29, in top-level template code
+    {% block content %}{% endblock %}
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\templates\success.html", line 31, in block 'content'
+    <form action="{{ url_for('edit_comment') }}" method="POST" style="display:inline;">
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1121, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1110, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\werkzeug\routing\map.py", line 924, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'edit_comment'. Did you mean 'comment' instead?
+2025-04-30 22:20:48,281 - ERROR - Exception on /success [GET]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\main.py", line 321, in successPage
+    return render_template("/success.html", PrevComments = PrevComments, csrf_token=token, value=user, state=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\templates\success.html", line 1, in top-level template code
+    {% extends 'layout.html' %}
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\templates\layout.html", line 29, in top-level template code
+    {% block content %}{% endblock %}
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\templates\success.html", line 31, in block 'content'
+    <form action="{{ url_for('edit_comment') }}" method="POST" style="display:inline;">
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1121, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1110, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\werkzeug\routing\map.py", line 924, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'edit_comment'. Did you mean 'comment' instead?
+2025-04-30 22:39:13,013 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 22:39:13.013744
+2025-04-30 22:44:05,538 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 22:44:05.538968
+2025-04-30 22:46:16,043 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 22:46:16.043066
+2025-04-30 22:53:30,990 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 22:53:30.990587
+2025-04-30 22:54:50,539 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 22:54:50.539422
+2025-04-30 22:57:51,136 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 22:57:51.136170
+2025-04-30 22:58:54,150 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 22:58:54.150147
+2025-04-30 23:01:24,376 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 23:01:24.376398
+2025-04-30 23:02:58,536 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 23:02:58.536923
+2025-04-30 23:03:08,378 - ERROR - Exception on /success [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1212, in make_response
+    raise TypeError(
+TypeError: The view function for 'comment' did not return a valid response. The function either returned None or ended without a return statement.
+2025-04-30 23:15:27,965 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 23:15:27.965159
+2025-04-30 23:15:48,581 - ERROR - Exception on /success [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1212, in make_response
+    raise TypeError(
+TypeError: The view function for 'comment' did not return a valid response. The function either returned None or ended without a return statement.
+2025-04-30 23:25:30,731 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 23:25:30.731252
+2025-04-30 23:28:20,093 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 23:28:20.093809
+2025-04-30 23:29:49,512 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 23:29:49.512936
+2025-04-30 23:29:58,556 - ERROR - Exception on /success [POST]
+Traceback (most recent call last):
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\jacks\Documents\software\year12\Year 12 term 1 Unsecure PWA COMpany\The_Unsecure_PWA-main\main.py", line 357, in comment
+    if dbHandler.EditComment(comment_id, new_feedback, session['username']):
+                             ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'comment_id' where it is not associated with a value
+2025-04-30 23:31:01,548 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 23:31:01.548890
+2025-04-30 23:33:33,891 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 23:33:33.891365
+2025-04-30 23:35:53,700 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 23:35:53.700796
+2025-04-30 23:41:23,502 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 23:41:23.502581
+2025-04-30 23:43:27,639 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 23:43:27.639064
+2025-04-30 23:46:37,750 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 23:46:37.750768
+2025-04-30 23:47:30,249 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 23:47:30.249370
+2025-04-30 23:47:35,490 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 23:47:35.490183
+2025-04-30 23:51:48,950 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-04-30 23:51:48.950566
+2025-04-30 23:52:47,022 - INFO - Sign Up attempt sent to server with parameters: Username(Username) | Request from IP: 127.0.0.1 at time: 2025-04-30 23:52:47.022252
+2025-04-30 23:52:51,082 - INFO - Sign Up attempt sent to server with parameters: Username(Username2) | Request from IP: 127.0.0.1 at time: 2025-04-30 23:52:51.082933
+2025-05-01 00:49:20,939 - INFO - Log in attempt sent to server with parameters: Username(Username1), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-05-01 00:49:20.939954
+2025-05-01 00:49:25,884 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-05-01 00:49:25.884801
+2025-05-01 00:50:17,148 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-05-01 00:50:17.148395
+2025-05-01 00:51:34,488 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-05-01 00:51:34.488835
+2025-05-01 00:52:01,601 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-05-01 00:52:01.601520
+2025-05-01 00:52:40,700 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-05-01 00:52:40.700506
+2025-05-01 00:53:24,122 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-05-01 00:53:24.122653
+2025-05-01 00:57:37,338 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-05-01 00:57:37.338359
+2025-05-01 01:02:39,866 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-05-01 01:02:39.866204
+2025-05-01 01:06:39,696 - INFO - Log in attempt sent to server with parameters: Username(Username), Password(**Hidden**) | Request from IP: 127.0.0.1 at time: 2025-05-01 01:06:39.696320
