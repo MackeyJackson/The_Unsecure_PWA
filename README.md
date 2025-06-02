@@ -24,4 +24,4 @@ You are to run a range of security tests and scans along with a white/grey/black
 
 ## Solution
 
-My personal solution has been implemented in the files of this fork
+My personal solution has been implemented in the files of this fork along with a comprehensive security report outlining the work done and requirments of the "Client"
